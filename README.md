@@ -111,7 +111,7 @@ Despite some unexpected findings (e.g., better lifestyle metrics in urban areas,
 * `01_DataCleaning.ipynb` : Contains code for data preprocessing,
 * `02_EDA_Observation` : EDA, statistical analysis, and result generation.
 * `03_ML` : Machine learning model building, and result generation.
-* `data/`: Directory for the raw dataset file(s).
+* `/data`: Directory for the raw dataset file(s).
 
 ## Technologies Used
 
