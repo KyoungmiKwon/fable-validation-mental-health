@@ -45,7 +45,7 @@ This project was initiated as a unique exploration into data analysis, connectin
     * **Lifestyle Indicators:** `Sleep Duration`, `Dietary Habits`, `Work/Study Hours`
     * **Stress Indicators:** `Academic Pressure`, `Work Pressure`, `Financial Stress`
     * **Mental Health Indicators:** `Depression`, `Have you ever had suicidal thoughts ?` (and `Family History of Mental Illness` as a background factor for mental health)
-    * **Demographic/Contextual:** `Age`, `Profession`, `Degree`, ``City` (used for Urban/Rural classification)`
+    * **Demographic/Contextual:** `Age`, `Profession`, `Degree`, `City` (used for Urban/Rural classification)
 
 * **Urban/Rural Definition:** Based on per capita GRP (Gross Regional Product) data from India's Ministry of Statistics and Program Implementation and public data portals, the top 7 states/cities were categorized as 'Urban,' and the bottom 5 as 'Rural.'
 * **Sample Size:** Urban (26,808 samples) and Rural (25,072 samples). All comparisons were made by analyzing 100% ratios for both populations to account for sample size differences.
