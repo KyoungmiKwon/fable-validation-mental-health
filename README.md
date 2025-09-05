@@ -52,11 +52,11 @@ This project was initiated as a unique exploration into data analysis, connectin
 
 ## Key Questions & Hypotheses
 
-(1) 큰 도시와 작은 도시(시골)간에 라이프스타일 및 정신건강 지표에서 유의미한 차이가 있을까?
-(2) 어떤 요인이 특정 지역(도시/시골)에서 정신겅강과 더 관계가 있을까?
-
-(1) **Are there statistically significant differences in lifestyle and mental health indicators between residents of large cities and smaller towns/rural areas in India?**
-(2) **Which factors have a more substantial impact on mental health in either urban or rural settings?**
+(1) 큰 도시와 작은 도시(시골)간에 라이프스타일 및 정신건강 지표에서 유의미한 차이가 있을까?      
+(2) 어떤 요인이 특정 지역(도시/시골)에서 정신겅강과 더 관계가 있을까?      
+      
+(1) **Are there statistically significant differences in lifestyle and mental health indicators between residents of large cities and smaller towns/rural areas in India?**      
+(2) **Which factors have a more substantial impact on mental health in either urban or rural settings?**      
 
 **Specific Hypotheses:**
 
