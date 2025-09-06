@@ -1,4 +1,4 @@
-# A Tale from India: The Rural Mouse and the City Mouse - Where is Well-being in Modern Society? 
+# A Tale from India: The Urban Mouse and the Rural Mouse - Where is Well-being in Modern Society? 
 
 ## Project Overview
 
