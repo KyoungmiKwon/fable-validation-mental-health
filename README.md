@@ -5,7 +5,7 @@
 이 프로젝트는 고전 이솝우화 '시골쥐 도시쥐'의 메세지를 현대 사회의 데이터로 검증하고자 했습니다.
 도시의 풍요로움 뒤에 숨겨진 스트레스와 위험이 시골의 소박한 평화보다 과연 더 나쁜지, 캐글의 Exploring Mental Health Data를 통해 분석해 보았습니다.
 
-This project delves into the timeless wisdom of Aesop's fable, "The Country Mouse and the City Mouse" by examining whether its core message about the hidden stresses of urban life versus the simple peace of rural living still holds true in modern society. I utilize 'Exploring Mental Health data'from Kaggle, which includes data from India to investigate the well-being of urban versus rural inhabitants.
+This project explore the timeless wisdom of Aesop's fable, "The Country Mouse and the City Mouse" by examining whether its core message about the hidden stresses of urban life versus the simple peace of rural living still holds true in modern society. I utilize 'Exploring Mental Health data'from Kaggle, which includes data from India to investigate the well-being of urban versus rural inhabitants.
 
 ## Motivation
 
